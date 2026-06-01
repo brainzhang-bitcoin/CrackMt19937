@@ -27,9 +27,9 @@
 #define MT_UPPER_MASK 0x80000000
 
 #define REGION_START 0
-//#define REGION_END 4294967295
-#define REGION_END 2147483648
-#define REGION_CHUNK 5
+#define REGION_END 4294967295
+//#define REGION_END 2147483648
+#define REGION_CHUNK 1
 
 typedef struct {
     uint32_t MT[MT_N];
