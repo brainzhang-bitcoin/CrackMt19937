@@ -47,8 +47,6 @@ make
 * [美国政府是如何没收大量比特币的](https://brainz.fun/blog/2026/06/01/mei-guo-zheng-fu-shi-ru-he-mei-shou-da-liang-bi-te-bi-de/)
 * [CVE-2023-39910: Libbitcoin Explorer PRNG Vulnerability](https://nvd.nist.gov/vuln/detail/CVE-2023-39910)
 * [MilkSad Vulnerability Disclosure](https://milksad.info/)
-* Elliptic Report: $15 billion seized by US originates from Iran/China bitcoin miner "theft"
-* Safeheron Lab: Retrospective on the Largest PRNG Vulnerability in Crypto History
 
 ***
 *Developed for educational security research.*
